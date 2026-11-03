@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-openai
+langchain-pinecone
+langchain-text-splitters
+pinecone
+requests
+beautifulsoup4
+python-dotenv
